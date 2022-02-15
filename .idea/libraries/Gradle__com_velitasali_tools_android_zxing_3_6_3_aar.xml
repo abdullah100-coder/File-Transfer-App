@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.velitasali.tools.android:zxing:3.6.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2a6884c4359e1c7660929739673b7cf/jetified-zxing-3.6.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2a6884c4359e1c7660929739673b7cf/jetified-zxing-3.6.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2a6884c4359e1c7660929739673b7cf/jetified-zxing-3.6.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.velitasali.tools.android/zxing/3.6.3/7a238b9a33ab30bd2530383fe5638c9c287486a9/zxing-3.6.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.velitasali.tools.android/zxing/3.6.3/3ffbdef673c548f372b9110f445a0254e91035ed/zxing-3.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

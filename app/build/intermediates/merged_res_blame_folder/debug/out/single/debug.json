@@ -1,0 +1,1038 @@
+[
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_gradient_top.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_gradient_top.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_alert_circle_outline_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-hdpi\\ic_alert_circle_outline_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_state_selected_image_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\state_selected_image_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_file_explorer.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_file_explorer.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_check_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xhdpi\\ic_check_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_view_list.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\view_list.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_content_sharing.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_content_sharing.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_list_active_connection.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\list_active_connection.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_device.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\dialog_device.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_android_white_36dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_android_white_36dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_edit_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_edit_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_gradient_bottom_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_gradient_bottom_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_selector_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\round_selector_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_action_mode_transfer.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\action_mode_transfer.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_send_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_send_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_layer_guide_image_rounded.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\layer_guide_image_rounded.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\anim_enter_from_left.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\anim\\enter_from_left.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_send.PNG.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_send.PNG"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_transfer_group.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_transfer_group.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_more.PNG.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_more.PNG"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_autorenew_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_autorenew_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_folder_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-hdpi\\ic_folder_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_library_music_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_library_music_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_main.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_popup_fragment_transfer_assignee.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\popup_fragment_transfer_assignee.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_rect_selector_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\rect_selector_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_folder_network_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_folder_network_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_compare_arrows_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_compare_arrows_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_selection.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\dialog_selection.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_list_title.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_list_title.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_video_grid.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_video_grid.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_image_grid.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_image_grid.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\xml_provider_paths.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_selection_editor.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\dialog_selection_editor.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_file_presentation_box_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_file_presentation_box_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_perm_device_information_white_144dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_perm_device_information_white_144dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_action_mode_abs_editable.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\action_mode_abs_editable.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_transfer_info.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\dialog_transfer_info.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_view_converqr.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\view_converqr.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_network_manager.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\fragment_network_manager.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_gradient_bottom.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_gradient_bottom.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_file_explorer.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\fragment_file_explorer.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_selected_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\round_selected_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_layer_tick_image_rounded.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\layer_tick_image_rounded.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_view_button.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\view_button.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_video_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_video_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_alert_circle_outline_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-mdpi\\ic_alert_circle_outline_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\anim_exit_to_left.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\anim\\exit_to_left.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_file_list.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_file_list.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_mainbgbutton.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-hdpi\\mainbgbutton.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_state_selected_image_rounded_guiding.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\state_selected_image_rounded_guiding.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\color_selection_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\color\\selection_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_state_selected_image_rounded_guiding_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\state_selected_image_rounded_guiding_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_image.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_image.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_transfer.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_transfer.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_gradient_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_gradient_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\color_text_button_ripple_color.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\color\\text_button_ripple_color.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_selector.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\round_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_edge_action.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_edge_action.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_web_white2_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_web_white2_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_close_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-hdpi\\ic_close_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_file_excel_box_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_file_excel_box_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_application.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_application.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_toggle_transfer.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\dialog_toggle_transfer.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_pathresolver.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_pathresolver.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_exqrscanner.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\fragment_exqrscanner.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_file_document_box_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_file_document_box_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_gradient_top_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_gradient_top_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_popup_menu_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_popup_menu_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_qrcode_white_128dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_qrcode_white_128dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow_down_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_arrow_down_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_code_tags_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_code_tags_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_file.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_file.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_selectable_item_background_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\selectable_item_background_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_network_device.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_network_device.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_privacy.PNG.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_privacy.PNG"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_done_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_done_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_layout_web_share_details.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\layout_web_share_details.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ripple_background.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ripple_background.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_abs_group_shareable_list.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_abs_group_shareable_list.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_more_vert_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_more_vert_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_about.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_about.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_device_grid.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_device_grid.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_filepicker.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_filepicker.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_assignee_selector.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\dialog_assignee_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_signal_wifi_off_white_144dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_signal_wifi_off_white_144dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_folder_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_folder_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_folder_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_selected.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\round_selected.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_wifi_tethering_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_wifi_tethering_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\color_selection_accent_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\color\\selection_accent_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_rect_selector_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-v21\\rect_selector_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_devices_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_devices_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences_defaults_main.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\xml\\preferences_defaults_main.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_file_powerpoint_box_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_file_powerpoint_box_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_alert_circle_outline_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_alert_circle_outline_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_manager.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\fragment_manager.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_state_selected_image.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\state_selected_image.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_barcode_scanner.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_barcode_scanner.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_android_head_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_android_head_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_rect_selector.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-v21\\rect_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_share_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_share_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_view_transfer.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_view_transfer.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_transfer.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_transfer.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_music_note_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_music_note_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow_up_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_arrow_up_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_compare_arrows_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_compare_arrows_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_dialog.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_dialog.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_connection_manager.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_connection_manager.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_check_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_check_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_zip_box_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_zip_box_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_delete_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_music.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_music.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_video_library_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_video_library_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\anim_exit_to_right.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\anim\\exit_to_right.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_round_selector_mask.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-v21\\round_selector_mask.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_compare_arrows_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xhdpi\\ic_compare_arrows_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_transfer_explorer.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\fragment_transfer_explorer.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_rateus.PNG.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_rateus.PNG"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_close_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xhdpi\\ic_close_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_file_font_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_file_font_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_dialog_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_dialog_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_greenloog.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\greenloog.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_rect_selector.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\rect_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_compare_arrows_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-mdpi\\ic_compare_arrows_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_vpn_key_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_vpn_key_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_progress.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_receive.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_receive.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_close_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_close_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_barcode_scanner.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_barcode_scanner.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_pause_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_pause_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_search.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_search.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_manage.PNG.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_manage.PNG"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_photo_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_photo_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\color_text_button_background_selector.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\color\\text_button_background_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_block_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_block_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_assignee_grid.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_assignee_grid.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_selectable_item_background.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\selectable_item_background.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\anim_enter_from_right.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\anim\\enter_from_right.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_swap_vert_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_swap_vert_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_assignee.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_assignee.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.PNG.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_home.PNG"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_input.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\dialog_input.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_drawer_main.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\drawer_main.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_share.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_share.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_short_text_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_short_text_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_video.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_video.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_calendar_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_calendar_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_github_circle_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_github_circle_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_state_selected_image_rounded.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\state_selected_image_rounded.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_autorenew_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_autorenew_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_google_spreadsheet_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_google_spreadsheet_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_edge_action_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_edge_action_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\color_text_button_text_color_selector.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\color\\text_button_text_color_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_about.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_compare_arrows_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-hdpi\\ic_compare_arrows_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device_hub_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_device_hub_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_action_mode_share.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\action_mode_share.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_layer_tick_image_rounded_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\layer_tick_image_rounded_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_autorenew_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-mdpi\\ic_autorenew_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_folder_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_folder_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_file_explorer.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_file_explorer.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_profile_editor.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\dialog_profile_editor.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_progress_bar.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\round_progress_bar.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ripple_background_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ripple_background_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_library_books_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_library_books_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_apkicon.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\apkicon.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_play_arrow_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_play_arrow_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_wifi_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_wifi_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_fastscroll_default_bubble_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\fastscroll_default_bubble_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_view_title.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\view_title.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_round_selector_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-v21\\round_selector_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_popup_menu.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_popup_menu.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_content_copy_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_content_copy_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_hotspot_manager.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_hotspot_manager.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_insert_drive_file_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_insert_drive_file_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_account_box_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_account_box_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_file_pdf_box_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_file_pdf_box_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_autorenew_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xhdpi\\ic_autorenew_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_coptions.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\fragment_coptions.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_progress_bar_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\round_progress_bar_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_progress_bar_shape.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\round_progress_bar_shape.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_add_devices.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_add_devices.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_layer_guide_image_rounded_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\layer_guide_image_rounded_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_qrcode_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_qrcode_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dots_horizontal_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_dots_horizontal_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\anim_pulse.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\anim\\pulse.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_file_word_box_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_file_word_box_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_music_box_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_music_box_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_manage_devices.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_manage_devices.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_certificate_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_certificate_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_videoicon.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\videoicon.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_qrconnect.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\fragment_qrconnect.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_device.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_device.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_check_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-hdpi\\ic_check_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_snackbar_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_snackbar_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_musicicon.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\musicicon.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\color_button_text_color_selector.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\color\\button_text_color_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_available_interface.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\dialog_available_interface.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_progress_bar_shape_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\round_progress_bar_shape_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_share.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_share.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_close_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-mdpi\\ic_close_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_remove_circle_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_remove_circle_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_autorenew_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-hdpi\\ic_autorenew_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_folder_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-mdpi\\ic_folder_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_view_bubble.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\view_bubble.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bookmark_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_bookmark_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_fileicon.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\fileicon.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_abs_editable_list.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_abs_editable_list.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_row_apps.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\row_apps.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_folder_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_folder_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\color_selection_accent.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\color\\selection_accent.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_action_mode_file.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\action_mode_file.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_state_selected_image_square.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\state_selected_image_square.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_fastscroll_default_bubble.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\fastscroll_default_bubble.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_alert_circle_outline_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xhdpi\\ic_alert_circle_outline_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_actions_text_editor.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\actions_text_editor.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\color_selection.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\color\\selection.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_snackbar.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_snackbar.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_keyboard_arrow_right_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_keyboard_arrow_right_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_check_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_check_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_close_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_close_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_web_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_web_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_help_circle_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_help_circle_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\menu_action_mode_group.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\menu\\action_mode_group.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_text_editor.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_text_editor.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_home_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_format_list_checks_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_format_list_checks_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_file_download_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_file_download_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_close_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_camera_white_144dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_camera_white_144dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_devices_to_transfer.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_add_devices_to_transfer.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_error_outline_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_error_outline_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_save_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_save_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_info_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_info_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-v21_round_selector.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-v21\\round_selector.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_qrcode_scan_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_qrcode_scan_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_state_selected_image_rounded_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\state_selected_image_rounded_dark.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_check_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-mdpi\\ic_check_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_refresh_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_refresh_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_view_recycler.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\view_recycler.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_compare_arrows_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_compare_arrows_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_web_share.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\layout\\activity_web_share.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_ip_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_ip_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_gradient.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_open_in_new_white_24dp.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\ic_open_in_new_white_24dp.xml"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_alert_circle_outline_white_24dp_static.png.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_alert_circle_outline_white_24dp_static.png"
+    },
+    {
+        "merged": "G:\\Android\\GreenShar\\app\\build\\intermediates\\merged_res\\debug\\drawable_state_selected_image_square_dark.xml.flat",
+        "source": "G:\\Android\\GreenShar\\app\\src\\main\\res\\drawable\\state_selected_image_square_dark.xml"
+    }
+]

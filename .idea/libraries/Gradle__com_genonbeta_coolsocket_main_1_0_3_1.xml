@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.genonbeta.coolsocket:main:1.0.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.genonbeta.coolsocket/main/1.0.3.1/9f5481815a28e3b7b64bed2882f9f6a2242241cc/main-1.0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.genonbeta.coolsocket/main/1.0.3.1/3446fc9975ea920359beca5192439d957ae2c4da/main-1.0.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.genonbeta.coolsocket/main/1.0.3.1/4ea046dc6166bb24f81dc245728d305163380032/main-1.0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

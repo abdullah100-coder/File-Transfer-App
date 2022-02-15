@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.onesignal:OneSignal:3.14.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1997b984d0967997ef3fa2ada5508c36/jetified-OneSignal-3.14.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1997b984d0967997ef3fa2ada5508c36/jetified-OneSignal-3.14.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1997b984d0967997ef3fa2ada5508c36/jetified-OneSignal-3.14.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/441cde7945cbdb4a1dba0f70c19245ec/jetified-OneSignal-3.14.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/441cde7945cbdb4a1dba0f70c19245ec/jetified-OneSignal-3.14.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/441cde7945cbdb4a1dba0f70c19245ec/jetified-OneSignal-3.14.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.onesignal/OneSignal/3.14.1/6be4420b6d8a0d2fa468240385439624b6d9df88/OneSignal-3.14.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

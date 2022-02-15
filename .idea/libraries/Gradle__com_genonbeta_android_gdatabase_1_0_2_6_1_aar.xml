@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.genonbeta.android:gdatabase:1.0.2.6.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d14ddcf18d643dcc1e79a13dc5689306/jetified-gdatabase-1.0.2.6.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d14ddcf18d643dcc1e79a13dc5689306/jetified-gdatabase-1.0.2.6.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d14ddcf18d643dcc1e79a13dc5689306/jetified-gdatabase-1.0.2.6.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.genonbeta.android/gdatabase/1.0.2.6.1/6659f5894c0ecc3a61d92e1b24f7493701dcbb9c/gdatabase-1.0.2.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.genonbeta.android/gdatabase/1.0.2.6.1/24ecf2a306c17e38d86e3dafe937619f46d84735/gdatabase-1.0.2.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
